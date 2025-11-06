@@ -44,7 +44,6 @@ It is ideal for:
 <div style="text-align: center;">
     <img src="AI based pipeline.png" alt="Flowchart">
 </div>
----
 
 ## Implementation (Azure or AWS)
 ### 1. Fork & Clone
