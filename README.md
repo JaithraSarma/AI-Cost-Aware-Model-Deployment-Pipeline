@@ -40,15 +40,10 @@ It is ideal for:
 
 ---
 
-## Project Overview  
-```mermaid
-flowchart TD
-A[Train Model (MLOps)] --> B[Build Docker Image]
-B --> C[Deploy (Jenkins Pipeline)]
-C --> D[Monitor & Optimize (FinOps)]
-D --> E[Reports + Cloud Cost Insights]
-E --> F[Azure or AWS Environment]
-```
+## Architecture 
+<div style="text-align: center;">
+    <img src="AI based pipeline.png" alt="Flowchart">
+</div>
 ---
 
 ## Implementation (Azure or AWS)
