@@ -101,4 +101,4 @@ All generated reports will be saved under ```reports``` folder that is created a
 ---
 
 ## Summary
-This project unifies automation, intelligence, and cost awareness — enabling engineers to deploy AI models efficiently across any cloud.
+This project unifies automation, intelligence, and cost awareness, enabling engineers to deploy AI models efficiently across any cloud.
