@@ -54,7 +54,7 @@ E --> F[Azure or AWS Environment]
 ## Implementation (Azure or AWS)
 ### 1. Fork & Clone
 ```bash
-git clone https://github.com/<your-username>/ai-cost-aware-pipeline.git
+git clone https://github.com/JaithraSarma/ai-cost-aware-pipeline.git
 cd ai-cost-aware-pipeline
 ```
 
